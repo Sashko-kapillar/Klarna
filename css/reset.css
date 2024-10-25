@@ -16,11 +16,13 @@
   /* color */
   --black: #000;
   --blue: #bdd5ff;
-  --menu-svg-black: #0e0e0f;
+  --menu-svg-bgcard-black: #0e0e0f;
   --white: #fff;
   --pink: #ffb3c7;
   --indigo: #487b94;
-  --bg-btn: #17120f;
+  --bg-btn-footer: #17120f;
+  --bg-shop-border: #f0f1f1;
+  --duna: #ffe6cc;
   --bg: #fff;
 }
 
