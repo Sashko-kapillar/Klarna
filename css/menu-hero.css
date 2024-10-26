@@ -15,9 +15,19 @@
 }
 
 .menu-list a,
-.auth-links a {
+.auth-white {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.05;
+  letter-spacing: 0em;
+}
+
+.menu-list a {
   color: var(--menu-black);
-  text-decoration: none;
+}
+
+.auth-white {
+  color: var(--white);
 }
 
 .hero {
