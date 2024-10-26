@@ -16,7 +16,7 @@
   /* color */
   --black: #000;
   --blue: #bdd5ff;
-  --menu-svg-bgcard-black: #0e0e0f;
+  --menu-black: #0e0e0f;
   --white: #fff;
   --pink: #ffb3c7;
   --indigo: #487b94;
@@ -31,6 +31,7 @@ body {
   padding: 0;
   background-color: var(--bg);
   color: var(--black);
+  font-family: var(--font-family);
 }
 
 .section {
