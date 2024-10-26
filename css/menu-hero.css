@@ -2,6 +2,12 @@
   background-color: var(--blue);
 }
 
+.section-hero {
+  padding-top: 20px;
+  padding-bottom: 74px;
+  margin-top: 20px;
+}
+
 .menu {
   display: flex;
   justify-content: space-between;
